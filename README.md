@@ -10,7 +10,7 @@
   - [SOC Simulator](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Hacker101 CTF](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
-<h2>📺 Development Projects:</h2>
+<h2>👨‍💻 Development Projects:</h2>
 - <b>Web-Application</b>
 - [Full-Stack E-Commerce Website](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
