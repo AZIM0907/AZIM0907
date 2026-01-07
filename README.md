@@ -11,6 +11,7 @@
   - [Hacker101 CTF](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2>👨‍💻 Development Projects:</h2>
+
 - <b>Web-Application</b>
   - [Full-Stack E-Commerce Website](https://github.com/joshmadakor1/Sentinel-Lab)
 
