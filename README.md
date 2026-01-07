@@ -1,19 +1,19 @@
-<h1>Hi, I'm Azim! <br/><a href="https://github.com/AZIM0907">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Azim! <br/><a href="https://github.com/AZIM0907">Programmer</a>, <a href="https://www.linkedin.com/in/im-azim020709/">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Soc Automation</b>
-  - [Splunk Automation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Splunk Automation](https://)
 - <b>Final Year Project</b>
-  - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System](https://) <b>
 - <b>TryHackMe</b>
-  - [SOC Simulator](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Hacker101 CTF](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [SOC Simulator](https://)
+  - [Hacker101 CTF](https://)
 
 <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Web-Application</b>
-  - [Full-Stack E-Commerce Website](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Full-Stack E-Commerce Website](https://)
 
 <h2> 🤳 Connect with me:</h2>
 
