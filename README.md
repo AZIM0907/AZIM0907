@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Development Projects:</h2>
 - <b>Web-Application</b>
-- [Full-Stack E-Commerce Website](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Full-Stack E-Commerce Website](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
