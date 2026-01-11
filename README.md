@@ -5,7 +5,7 @@
 - <b>Soc Automation</b>
   - [Splunk Automation](https://)
 - <b>Final Year Project</b>
-  - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System](https://) <b>
+  - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System]([https://](https://github.com/AZIM0907/Final-Year-Project)) <b>
 - <b>TryHackMe</b>
   - [SOC Simulator](https://)
 - <b>CTF</b>
