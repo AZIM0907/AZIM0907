@@ -7,7 +7,7 @@
 - <b>Final Year Project</b>
   - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System](https://github.com/AZIM0907/Final-Year-Project) <b>
 - <b>TryHackMe</b>
-  - [SOC Simulator](https://)
+  - [SOC Simulator](https://github.com/AZIM0907/SOC-Simulator/blob/main/README.md)
 - <b>CTF</b>
   - [Hacker101 CTF](https://)
 
