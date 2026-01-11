@@ -1,4 +1,4 @@
-<h1>Hi, I'm Azim! <br/><a href="https://github.com/AZIM0907">Programmer</a>, <a href="https://www.linkedin.com/in/im-azim020709/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Azim! <br/><a href="https://github.com/AZIM0907">Programmer</a> and <a href="https://www.linkedin.com/in/im-azim020709/">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
