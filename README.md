@@ -8,6 +8,7 @@
   - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System](https://) <b>
 - <b>TryHackMe</b>
   - [SOC Simulator](https://)
+- <b>CTF</b>
   - [Hacker101 CTF](https://)
 
 <h2>👨‍💻 Development Projects:</h2>
