@@ -9,7 +9,7 @@
 - <b>TryHackMe</b>
   - [SOC Simulator](https://github.com/AZIM0907/SOC-Simulator/blob/main/README.md)
 - <b>CTF</b>
-  - [Hacker101 CTF](https://)
+  - [Hacker101 CTF](https://github.com/AZIM0907/CTF)
 
 <h2>👨‍💻 Development Projects:</h2>
 
