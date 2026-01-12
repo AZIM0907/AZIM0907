@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Soc Automation</b>
-  - [Splunk Automation](https://)
+  - [Splunk Automation](https://github.com/AZIM0907/SOC-Automation-Project)
 - <b>Final Year Project</b>
   - [Comparative Study of Bio-Inspired Algorithm for Feature Selection in Intrusion Detection System](https://github.com/AZIM0907/Final-Year-Project) <b>
 - <b>TryHackMe</b>
